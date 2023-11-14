@@ -45,17 +45,32 @@ Datasets used in the project are added in dataset folder.
 
 ## Playing 11 of India
 
-- Ravimdra Jadeja          
-- Virtat Kholi          
-- Rohit Sharma          
-- Ravichandran Ashwin          
-- Kuldeep Yadav          
-- Mohammed Shami          
-- Jasprit Bumrah          
-- Shardul Thakur          
-- KL Rahul          
-- Mohammed Siraj          
-- Shreyas Iyer  
+- Virtat Kholi
+- Rohit Sharma
+- Shubman Gill
+- Shreyas Iyer
+- Suryakumar Yadav
+- Ravimdra Jadeja
+- Ravichandran Ashwin
+- Shardul Thakur
+- Mohammed Shami
+- Kuldeep Yadav
+- Jasprit Bumrah
+
+## Playing 11 for Australia
+
+- David Warner
+- Steven Smith
+- Travis Head
+- Marnus Labuschangne
+- Glenn Maxwell
+- Mitchell Marsh
+- Marcus Stoinis
+- Mitchell Starc
+- Pat Cummins
+- Adam Zampa
+- Josh Hazlewood
+
 
 **Team ID: T27**
 
